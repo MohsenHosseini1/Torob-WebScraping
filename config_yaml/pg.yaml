@@ -1,0 +1,5 @@
+username: "admin"
+password: "123"
+database: "troob"
+port: 5432
+host: "127.0.0.1"
